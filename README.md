@@ -2,6 +2,8 @@
 
 CCL2020，“小牛杯”幽默计算任务数据发布
 
+**Update：测试集标签已发布**
+
 任务说明参见CCL2020官方网站：http://cips-cl.org/static/CCL2020/humorcomputation.html
 
 任务每个阶段的排名在该项目公布。
